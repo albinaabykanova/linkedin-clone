@@ -1,0 +1,31 @@
+.navbarbg {
+    height: 55px;
+    background-color: white;
+} 
+
+.input.searche {
+    height: 36px;
+    max-width: 500px;
+    background-color: #eef3f8;
+    border: 0;
+}
+
+input.searche::placeholder {
+    font-size: 14px;
+    color: gray;
+    background-image: url(linkedin-clone/assets/search-solid.svg);
+    background-repeat: no-repeat;
+    background-size: 7%;
+}
+
+.body {
+    background-color: #f3f2ef;
+}
+
+.menutext {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 5px;
+    font-weight: lighter;
+}
